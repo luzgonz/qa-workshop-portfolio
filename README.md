@@ -1,7 +1,7 @@
 # qa-workshop-portfolio
 # QA Workshop Portfolio
 Portafolio individual del workshop "Ingeniero de Pruebas en el Desarrollo Moderno".
-Autor: [Luz González]
+Autor: Luz González
 
 Este repositorio contendrá los entregables desarrollados durante el workshop.
 
