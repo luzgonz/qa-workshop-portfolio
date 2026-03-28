@@ -1,23 +1,23 @@
 # Product Overview
 
 ## Nombre del producto
-[Escribe el nombre del sistema o aplicación]
+Plataforma de Comercio ElectrÃ³nico PetStore (JPetStore).
 
-## ¿Qué tipo de producto es?
-[Ejemplo: e-commerce, sistema bancario, sistema de reservas, API de mascotas, tienda online, etc.]
+## ï¿½Quï¿½ tipo de producto es?
+Es una aplicaciÃ³n web de e-commerce diseÃ±ada para la comercializaciÃ³n de mascotas y suministros relacionados.
 
-## ¿Qué problema resuelve?
-[Explica qué necesidad de negocio o del usuario intenta resolver]
+## ï¿½Quï¿½ problema resuelve?
+Permite que los clientes adquieran mascotas de forma online, eliminando la necesidad de traslados fÃ­sicos y facilitando la visualizaciÃ³n de un catÃ¡logo diverso en un solo lugar.
 
-## ¿Cómo genera valor para el negocio?
-[Explica cómo ayuda a la empresa: vender más, reducir errores, mejorar experiencia, automatizar un proceso, etc.]
+## ï¿½Cï¿½mo genera valor para el negocio?
+Automatiza el proceso de ventas y gestiÃ³n de pedidos, lo que permite aumentar la conversiÃ³n de clientes y reducir los costos operativos de una tienda fÃ­sica tradicional.
 
 ## Usuarios principales
-- [Usuario 1]
-- [Usuario 2]
-- [Usuario 3]
+- Clientes finales
+- Administradores
+- Gestores de pedidos
 
 ## Funcionalidades principales
-- [Funcionalidad 1]
-- [Funcionalidad 2]
-- [Funcionalidad 3]
+- NavegaciÃ³n y bÃºsqueda en catÃ¡logo por categorÃ­as.
+- GestiÃ³n de carrito de compras y registro de usuarios.
+- Proceso de pago (checkout) y confirmaciÃ³n de orden.
