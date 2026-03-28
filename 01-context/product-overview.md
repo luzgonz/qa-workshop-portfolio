@@ -3,13 +3,13 @@
 ## Nombre del producto
 Plataforma de Comercio Electrónico PetStore (JPetStore).
 
-## �Qu� tipo de producto es?
+## Qué tipo de producto es?
 Es una aplicación web de e-commerce diseñada para la comercialización de mascotas y suministros relacionados.
 
-## �Qu� problema resuelve?
+## Qué problema resuelve?
 Permite que los clientes adquieran mascotas de forma online, eliminando la necesidad de traslados físicos y facilitando la visualización de un catálogo diverso en un solo lugar.
 
-## �C�mo genera valor para el negocio?
+## Cómo genera valor para el negocio?
 Automatiza el proceso de ventas y gestión de pedidos, lo que permite aumentar la conversión de clientes y reducir los costos operativos de una tienda física tradicional.
 
 ## Usuarios principales
