@@ -1,20 +1,20 @@
 # Coverage Decisions
 
-## Riesgos que se probar·n primero
+## Riesgos que se probar√°n primero
 
-- [Riesgo A]
-- [Riesgo B]
+- Inconsistencia en el registro de nuevos usuarios (R2): El sistema permite crear m√∫ltiples cuentas con el mismo correo electr√≥nico o con campos obligatorios vac√≠os.
+- Inconsistencia de Inventario: El sistema permite finalizar la compra de productos que no tienen stock disponible en tiempo real.
 
-## øPor quÈ esos riesgos son prioridad?
+## ¬øPor qu√© esos riesgos son prioridad?
 
-[Explica tu razonamiento]
+Estos riesgos son prioridad porque afectan la integridad de los datos y la viabilidad del negocio. Permitir registros duplicados o incompletos genera una base de datos corrupta y problemas de acceso para los usuarios. Por otro lado, la falta de control en el inventario provoca ventas de productos inexistentes, lo que deriva en devoluciones manuales, p√©rdida de confianza del cliente y una gesti√≥n log√≠stica ineficiente.
 
-## QuÈ se probar· menos o quedar· fuera por ahora
+## Qu√© se probar√° menos o quedar√° fuera por ahora
 
-- [ExclusiÛn 1]
-- [ExclusiÛn 2]
-- [ExclusiÛn 3]
+- Detalles est√©ticos y dise√±o visual: Alineaci√≥n de elementos, fuentes y colores que no afecten la funcionalidad.
+- Pruebas de carga y rendimiento extremo: Comportamiento del sitio ante miles de usuarios concurrentes.
+- Compatibilidad con navegadores obsoletos: Soporte para versiones de software que ya no son est√°ndar
 
-## JustificaciÛn de exclusiones
+## Justificaci√≥n de exclusiones
 
-[Explica por quÈ esas exclusiones son razonables]
+Estas exclusiones son razonables porque no bloquean el flujo principal de compra. Se prioriza garantizar la funcionalidad cr√≠tica y la integridad de los datos sobre la est√©tica o el rendimiento masivo en esta fase inicial.
